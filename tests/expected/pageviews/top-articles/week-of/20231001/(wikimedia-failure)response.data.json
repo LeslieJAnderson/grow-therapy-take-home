@@ -1,0 +1,11 @@
+{
+  "error": true,
+  "response": {
+    "detail": [
+      "Given year/month/day is invalid date"
+    ],
+    "method": "get",
+    "type": "https://mediawiki.org/wiki/HyperSwitch/errors/invalid_request",
+    "uri": "/analytics.wikimedia.org/v1/pageviews/top/en.wikisource/all-access/2015/10/all-daysz"
+  }
+}

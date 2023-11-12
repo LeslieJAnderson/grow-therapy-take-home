@@ -1,0 +1,10 @@
+{
+  "error": true,
+  "response": {
+    "detail": "The date(s) you used are valid, but we either do not have data for those date(s), or the project you asked for is not loaded yet.  Please check https://wikimedia.org/api/rest_v1/?doc for more information.",
+    "method": "get",
+    "title": "Not found.",
+    "type": "https://mediawiki.org/wiki/HyperSwitch/errors/not_found",
+    "uri": "/analytics.wikimedia.org/v1/pageviews/per-article/en.wikipedia/all-access/all-agents/Albert_Einsteinzzzz/daily/2015100100/2015103100"
+  }
+}

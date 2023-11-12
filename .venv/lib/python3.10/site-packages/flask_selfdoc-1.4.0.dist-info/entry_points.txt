@@ -1,0 +1,6 @@
+[console_scripts]
+check_pypi=run_tests:check_pypi
+check_pypi_prerelease=run_tests:check_pypi_prerelease
+doctest=run_tests:run_doctest
+test=run_tests:test
+

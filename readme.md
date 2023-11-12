@@ -30,4 +30,4 @@
 - http://127.0.0.1:5000/pageviews/top-articles/month-of/20151010
 - http://127.0.0.1:5000/pageviews/for/List_of_craters_on_Mars:_O–Z/week-of/20231002
 - http://127.0.0.1:5000/pageviews/for/Lisa_Frank/month-of/20231002
-- http://127.0.0.1:5000//pageviews/for/Asimina/month-of/20231030/best-day
+- http://127.0.0.1:5000/pageviews/for/Asimina/month-of/20231030/best-day

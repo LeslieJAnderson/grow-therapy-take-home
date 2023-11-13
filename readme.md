@@ -15,7 +15,6 @@
 - Install venv in project after you clone repo with `python3 -m venv .venv`
 - Get into venv with `. .venv/bin/activate`
 - While in venv:
-  - Save installed dependencies with `pip freeze > requirements.txt`
   - Install dependencies with `pip install -r requirements.txt`    
   -  Start the app with `flask --app routes.py run --debug`
   - Run tests from venv with `pytest`

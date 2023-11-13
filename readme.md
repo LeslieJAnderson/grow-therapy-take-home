@@ -9,7 +9,7 @@
 - There should be no limit to the number of articles returned for for the "Top Articles" endpoint
 
 # Focus on Future-Proofing & Flexibility
-- If my assumption about what "for a week or a month" means is incorrect, `make_multiple_date_calls` is flexible enough to use with any date range; either tweaking my existing endpoints to accept a `start_date` and an `end_date`, or creating a new endpoint that accepts those parameters, should take minimal effort
+- If my assumption about what "for a week or a month" means is incorrect, `get_article_page_views_between` is flexible enough to use with any date range; either tweaking my existing endpoints to accept a `start_date` and an `end_date`, or creating a new endpoint that accepts those parameters, should take minimal effort
 
 # Installation & Setup
 - Install venv in project after you clone repo with `python3 -m venv .venv`

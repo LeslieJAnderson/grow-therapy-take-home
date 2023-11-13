@@ -8,7 +8,7 @@
 - Sunday is the first day of the week
 - There should be no limit to the number of articles returned for for the "Top Articles" endpoint
 
-# Focus on future-proofing and flexibility
+# Focus on Future-Proofing & Flexibility
 - If my assumption about what "for a week or a month" means is incorrect, `make_multiple_date_calls` is flexible enough to use with any date range; either tweaking my existing endpoints to accept a `start_date` and an `end_date`, or creating a new endpoint that accepts those parameters, should take minimal effort
 
 # Installation & Setup
